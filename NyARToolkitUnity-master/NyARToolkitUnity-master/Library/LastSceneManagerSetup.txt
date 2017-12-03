@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/sample/SimpleLiteM/simpleLiteM.unity
+  isLoaded: 1
+  isActive: 1
